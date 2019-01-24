@@ -1,0 +1,6 @@
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\bin\Debug\calculator_LAB3D.exe.config
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\bin\Debug\calculator_LAB3D.exe
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\bin\Debug\calculator_LAB3D.pdb
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\obj\Debug\Andrew's Calculator.csproj.CoreCompileInputs.cache
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\obj\Debug\calculator_LAB3D.exe
+C:\Users\apbol\source\repos\calculator_LAB3D\calculator_LAB3D\obj\Debug\calculator_LAB3D.pdb
